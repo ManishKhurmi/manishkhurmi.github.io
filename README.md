@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, MATLAB
+#### Technical Skills: Python, SQL, R, MATLAB
 
 ## Education	        		
 - B.S., Mathematics and Economics | The University of Surrey
