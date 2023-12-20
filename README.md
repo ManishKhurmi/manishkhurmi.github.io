@@ -3,10 +3,10 @@
 #### Technical Skills: Python, SQL, R, MATLAB
 
 ## Education	        		
-- B.S., Mathematics and Economics | The University of Surrey
+- B.S.c, Mathematics and Economics | The University of Surrey
   
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Data Scientist @ NFQ, London (_June 2020 - 2021_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
