@@ -1,18 +1,49 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, MATLAB
+#### Technical skills: Python, R, Data Science, SQL, Stata, EViews, Statistics, Advanced Excel
+#### Consultancy Skills: strategic analysis, project leadership, client management, client acquisition
+
 
 ## Education	        		
-- B.S.c, Mathematics and Economics | The University of Surrey
+- B.S.c, Mathematics and Economics | The University of Surrey | First Class Honours (1:1)
   
 ## Work Experience
-**Data Scientist @ NFQ, London (_June 2020 - 2021_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**PYTHON FOR DATA SCIENCE AND MACHINE LEARNING BOOTCAMP (2023)**
+- Data Science & Programming: Advanced Python proficiency, including NumPy and pandas for efficient data manipulation, along with handling Excel files, web scraping, and connecting Python to SQL databases.
+- Data Visualisation & Machine Learning: Practical experience in data visualisation with Matplotlib, Seaborn, and Plotly, creating both static and interactive visualisations. Machine learning using SciKit Learn, covering techniques like Linear Regression, K Nearest Neighbours, K Means Clustering, Decision Trees, and Random Forests for data- driven insights and problem-solving.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist @ NFQ, London (_June 2020 - 2021_)**
+- Collaborated closely with the Data Science team to incorporate real stock data into the pricing model, bridging theory with practical application and engaged in regular knowledge-sharing sessions with team members, fostering an environment of continuous learning and skill development.
+- Defended the chosen mathematical approaches through rigorous testing, sensitivity analysis, and validation. Communicated the findings to stakeholders, building trust in the model's capabilities.
+- Successfully managed the project under tight deadlines, overcoming challenges of working with real-world data, and delivering an accurate and user-friendly Pricer.
+Key achievements: Created an interactive option pricing model that was successfully put in production and sold to Tier 1 Investment Bank clients. The project was well received by senior stakeholders of the firm and gained additional funding for the Data Science Team.
+
+**Consultant, Advisory @ SANTANDER VIA NFQ, LONDON(_2019 - 2020_)**
+- Resolved complex technical, strategic, and business-related issues; Provided strategic guidance in navigating
+business-related issues, such as market volatility, regulatory changes, and competitive pressures.
+Key Achievement: Saved the client £9M by discovering certain types of trades that were heavily penalised by the new regulation, therefore helping the business change their strategy.
+**ASSOCIATE, ADVISORY @ SANTANDER VIA NFQ, LONDON(_2018 - 2019_)**
+• Played a pivotal role as a Project Managing Officer and Business Analyst, resulting in the successful implementation of the UK Strategy within the Global Steer Co at Santander Investment Bank.
+- Key Achievement: client was compliant with the PRA, extended on the project based on performance.
+
+**ANALYST, CREDIT RISK @ ELEVATE CREDIT, LONDON(_2017 - 2018_)**
+- Enhanced the New Customer Acquisition Strategy and optimised lending strategy using R, continuously
+monitored the performance of the acquisition strategy, making data-backed adjustments and refinements to
+optimise lending decisions and enhance portfolio performance
+Key Achievement: spotted a new customer trend that was used to improve our lending model generating £1.5 million in revenue
+
+
+## CAREER BREAK (_2021 - 2023_)
+**COVID-19 RESPONSE UNIT, NHS**
+• Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
+administering vaccines, reassuring individuals and addressing any concerns they may have.
+**ECONOMICS TUTOR, THE ACCESS PROJECT**
+• Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
+**CARER FOR SPECIAL NEEDS**
+• Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
+navigating the challenges of their condition
+
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
