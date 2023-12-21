@@ -3,9 +3,11 @@
 #### Technical skills: Python, R, Data Science, SQL, Stata, EViews, Statistics, Advanced Excel
 #### Consultancy Skills: strategic analysis, project leadership, client management, client acquisition
 
+#### PROFESSIONAL PROFILE
+Value-driven Data Scientist with a proven track record in using my analytical and problem solving skills to drive impactful solutions within Investment Banking and Fin-tech industries. Rooted in a solid foundation of applied mathematics, I've collaborated closely with seasoned Data Scientists, refining my skills in real-world applications. My consultancy roles exposed me to global data science initiatives, broadening my problem-solving horizons. Beyond data, my roles as a Vaccinator and Carer instilled a deep appreciation for the human aspect, driving my passion to create impactful and empathetic solutions.
 
 ## Education	        		
-- B.S.c, Mathematics and Economics | The University of Surrey | First Class Honours (1:1)
+- B.S.c, Mathematics and Economics | The University of Surrey 
   
 ## Work Experience
 **PYTHON FOR DATA SCIENCE AND MACHINE LEARNING BOOTCAMP (2023)**
@@ -23,7 +25,7 @@ Key achievements: Created an interactive option pricing model that was successfu
 business-related issues, such as market volatility, regulatory changes, and competitive pressures.
 Key Achievement: Saved the client £9M by discovering certain types of trades that were heavily penalised by the new regulation, therefore helping the business change their strategy.
 **ASSOCIATE, ADVISORY @ SANTANDER VIA NFQ, LONDON(_2018 - 2019_)**
-• Played a pivotal role as a Project Managing Officer and Business Analyst, resulting in the successful implementation of the UK Strategy within the Global Steer Co at Santander Investment Bank.
+- Played a pivotal role as a Project Managing Officer and Business Analyst, resulting in the successful implementation of the UK Strategy within the Global Steer Co at Santander Investment Bank.
 - Key Achievement: client was compliant with the PRA, extended on the project based on performance.
 
 **ANALYST, CREDIT RISK @ ELEVATE CREDIT, LONDON(_2017 - 2018_)**
@@ -35,23 +37,22 @@ Key Achievement: spotted a new customer trend that was used to improve our lendi
 
 ## CAREER BREAK (_2021 - 2023_)
 **COVID-19 RESPONSE UNIT, NHS**
-• Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
+- Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
 administering vaccines, reassuring individuals and addressing any concerns they may have.
 **ECONOMICS TUTOR, THE ACCESS PROJECT**
-• Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
+- Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
 **CARER FOR SPECIAL NEEDS**
-• Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
+- Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
 navigating the challenges of their condition
 
 
-
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Harnessing TensorFlow's capabilities, this project conducts advanced risk assessment using a curated subset of LendingClub data. Through meticulous feature engineering, it aims to predict borrower loan repayment probabilities, empowering informed lending decisions
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Tensorflow Credit Model](/assets/img/Credit Model Tensforflow .png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
