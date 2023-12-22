@@ -54,6 +54,10 @@ Harnessing TensorFlow's capabilities, this project conducts advanced risk assess
 
 ![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
 
+### Project 2) Unraveling King County, USA House Prices: Deep Learning Regression with TensorFlow
+
+![Project 2](/assets/img/project_2.png)
+
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
