@@ -36,12 +36,12 @@ Key Achievement: spotted a new customer trend that was used to improve our lendi
 
 
 ## CAREER BREAK (_2021 - 2023_)
-**COVID-19 RESPONSE UNIT, NHS**
+###COVID-19 RESPONSE UNIT, NHS**
 - Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
 administering vaccines, reassuring individuals and addressing any concerns they may have.
-**ECONOMICS TUTOR, THE ACCESS PROJECT**
+###ECONOMICS TUTOR, THE ACCESS PROJECT**
 - Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
-**CARER FOR SPECIAL NEEDS**
+###CARER FOR SPECIAL NEEDS**
 - Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
 navigating the challenges of their condition
 
@@ -52,7 +52,7 @@ navigating the challenges of their condition
 
 Harnessing TensorFlow's capabilities, this project conducts advanced risk assessment using a curated subset of LendingClub data. Through meticulous feature engineering, it aims to predict borrower loan repayment probabilities, empowering informed lending decisions
 
-![Tensorflow Credit Model](/assets/img/Credit Model Tensforflow .png)
+![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
