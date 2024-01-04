@@ -47,7 +47,7 @@ navigating the challenges of their condition
 
 
 ## Projects
-### Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
+### Project 1) Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Harnessing TensorFlow's capabilities, this project conducts advanced risk assessment using a curated subset of LendingClub data. Through meticulous feature engineering, it aims to predict borrower loan repayment probabilities, empowering informed lending decisions
@@ -55,7 +55,22 @@ Harnessing TensorFlow's capabilities, this project conducts advanced risk assess
 ![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
 
 ### Project 2) Unraveling King County, USA House Prices: Deep Learning Regression with TensorFlow
+This project delves into regression problems and the techniques of deep learning. Using TensorFlow, I predicted house prices in King County, USA, unravelling the intricacies of real estate valuation and challenges of creating a ML model for predictions. Some of the EDA that is included delves into heatmaps in relation to house prices, insights from the distribution of house prices using histograms, geographical data analysis and regression plots to visual the predictions of the model.
+![image](https://github.com/ManishKhurmi/manishkhurmi.github.io/assets/141260356/9bc99467-04d2-4c69-bf62-eb37e0ca5957)
 
 ![Project 2](/assets/img/project_2.png)
+
+### Project 3) Yelp Review Stars: Easy NLP Classification with Pipelines
+This project focuses on classifying reviews into 1 or 5 stars, using streamlined pipeline methods to uncover the straightforward yet impactful magic of NLP in deciphering text sentiment. Some of the EDA that helped form features is shown below, for example visualsing how the text length varies across the 5 different types of rating, boxplots for visualising the outliers in the data set, and the correlation heatmap to explore strong positively and negatively correlated variables.
+
+![Project 3](/assets/img/project_3.png)
+
+### Project 4) The Black-Scholes-Merton Financial Model
+This is an Interactive App with the goal to give an understanding of option-pricing through a hands-on approach using real world data. Throughout the App you will find widgets that allow you to vary the inputs of the Black-Scholes-Merton model and graphical representations of the outputs of the model. In an effort to see the impact of the chosen variations, towards the end of the notebook, you will find a qualitative explanation of the outputs (Greeks) of the underlying model.
+
+![Project 4](/assets/img/project_4.png)
+
+
+
 
 
