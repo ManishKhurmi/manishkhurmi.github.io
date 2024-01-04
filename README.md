@@ -36,28 +36,25 @@ Key Achievement: spotted a new customer trend that was used to improve our lendi
 
 
 ## CAREER BREAK (_2021 - 2023_)
-###COVID-19 RESPONSE UNIT, NHS**
+**COVID-19 RESPONSE UNIT, NHS**
 - Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
 administering vaccines, reassuring individuals and addressing any concerns they may have.
-###ECONOMICS TUTOR, THE ACCESS PROJECT**
+**ECONOMICS TUTOR, THE ACCESS PROJECT**
 - Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
-###CARER FOR SPECIAL NEEDS**
+**CARER FOR SPECIAL NEEDS**
 - Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
 navigating the challenges of their condition
 
 
 ## Projects
 ### Project 1) Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Using the TensorFlow algorithm to decide whether or not to lend a customer a loan based on the Lending Club data set. This involved data cleaning, feature engineering and successfully implementing TensorFlow algorithm to fit the data.  Shown below are some of the visuals from the project; count plots with a colour gradient to visualise the credit quality of the population in question, scatter plots to explore the relationship between variables of interest, heatmaps helped to visual the correlation between the continuous variables in our data and performance graphs to evaluate the model.![image](https://github.com/ManishKhurmi/manishkhurmi.github.io/assets/141260356/90f0ac7b-2b7c-4772-8394-0bc3de55197d)
-
+Using the TensorFlow algorithm to decide whether or not to lend a customer a loan based on the Lending Club data set. This involved data cleaning, feature engineering and successfully implementing TensorFlow algorithm to fit the data.  Shown below are some of the visuals from the project; count plots with a colour gradient to visualise the credit quality of the population in question, scatter plots to explore the relationship between variables of interest, heatmaps helped to visual the correlation between the continuous variables in our data and performance graphs to evaluate the model.
 
 ![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
 
 ### Project 2) Unraveling King County, USA House Prices: Deep Learning Regression with TensorFlow
 This project delves into regression problems and the techniques of deep learning. Using TensorFlow, I predicted house prices in King County, USA, unravelling the intricacies of real estate valuation and challenges of creating a ML model for predictions. Some of the EDA that is included delves into heatmaps in relation to house prices, insights from the distribution of house prices using histograms, geographical data analysis and regression plots to visual the predictions of the model.
-![image](https://github.com/ManishKhurmi/manishkhurmi.github.io/assets/141260356/9bc99467-04d2-4c69-bf62-eb37e0ca5957)
+
 
 ![Project 2](/assets/img/project_2.png)
 
