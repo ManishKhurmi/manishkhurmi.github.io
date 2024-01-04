@@ -50,7 +50,8 @@ navigating the challenges of their condition
 ### Project 1) Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Harnessing TensorFlow's capabilities, this project conducts advanced risk assessment using a curated subset of LendingClub data. Through meticulous feature engineering, it aims to predict borrower loan repayment probabilities, empowering informed lending decisions
+Using the TensorFlow algorithm to decide whether or not to lend a customer a loan based on the Lending Club data set. This involved data cleaning, feature engineering and successfully implementing TensorFlow algorithm to fit the data.  Shown below are some of the visuals from the project; count plots with a colour gradient to visualise the credit quality of the population in question, scatter plots to explore the relationship between variables of interest, heatmaps helped to visual the correlation between the continuous variables in our data and performance graphs to evaluate the model.![image](https://github.com/ManishKhurmi/manishkhurmi.github.io/assets/141260356/90f0ac7b-2b7c-4772-8394-0bc3de55197d)
+
 
 ![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
 
