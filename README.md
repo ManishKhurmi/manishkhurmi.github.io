@@ -39,8 +39,10 @@ Key Achievement: spotted a new customer trend that was used to improve our lendi
 **COVID-19 RESPONSE UNIT, NHS**
 - Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
 administering vaccines, reassuring individuals and addressing any concerns they may have.
+
 **ECONOMICS TUTOR, THE ACCESS PROJECT**
 - Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
+
 **CARER FOR SPECIAL NEEDS**
 - Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
 navigating the challenges of their condition
