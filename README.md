@@ -24,6 +24,7 @@ Key achievements: Created an interactive option pricing model that was successfu
 - Resolved complex technical, strategic, and business-related issues; Provided strategic guidance in navigating
 business-related issues, such as market volatility, regulatory changes, and competitive pressures.
 Key Achievement: Saved the client £9M by discovering certain types of trades that were heavily penalised by the new regulation, therefore helping the business change their strategy.
+
 **ASSOCIATE, ADVISORY @ SANTANDER VIA NFQ, LONDON(_2018 - 2019_)**
 - Played a pivotal role as a Project Managing Officer and Business Analyst, resulting in the successful implementation of the UK Strategy within the Global Steer Co at Santander Investment Bank.
 - Key Achievement: client was compliant with the PRA, extended on the project based on performance.
