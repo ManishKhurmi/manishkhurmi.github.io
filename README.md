@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical skills: Python, TensorFlow, Keras, R, AWS, SQL, Stata, EViews, Statistics, Qliksense
+#### Technical skills: Python, TensorFlow, Keras, R, AWS, SQL, STATA, EViews, Statistics, Qliksense
 #### Consultancy Skills: strategic analysis, project leadership, client management, client acquisition
 
 #### PROFESSIONAL PROFILE
@@ -10,6 +10,16 @@ Value-driven Data Scientist with a proven track record in using my analytical an
 - B.S.c, Mathematics and Economics | The University of Surrey | Grade (1:1)
 
 ## Projects
+
+### SmartCheck: Automating Feedback in 3D modelling 
+Recently, I had the opportunity to work on a research project with a UK based Startup, who focus on teaching engineering students how to create 3D models using computer software. University Professors spend on average 300 hours per semester grading these models, time they’d rather to allocate to one-to-one classroom feedback. My approach used a combination of a quantitative report based on machine learning algorithms in combination with a large language model (LLM). 
+
+![sc](/assets/img/sc_pic_1.png)
+
+One significant challenge the team mentioned was accurately assessing the orientation of students' 3D models, crucial for identifying top performers. After extensive experimentation and iteration, there was  a novel solution. Treating the 3D model as a dataset, I leveraged the first principal component as an orientation indicator. This approach proved scalable, computationally efficient, and easily interpretable for both professors and the LLM. This method, enabled me to present a solution that could be applied universally to any 3D model, saving time and ensuring consistent evaluation standards.
+
+![sc](/assets/img/sc_pic_1.png)
+
 ### Project 1) Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
 Using the TensorFlow algorithm to decide whether or not to lend a customer a loan based on the Lending Club data set. This involved data cleaning, feature engineering and successfully implementing TensorFlow algorithm to fit the data.  Shown below are some of the visuals from the project; count plots with a colour gradient to visualise the credit quality of the population in question, scatter plots to explore the relationship between variables of interest, heatmaps helped to visual the correlation between the continuous variables in our data and performance graphs to evaluate the model.
 
