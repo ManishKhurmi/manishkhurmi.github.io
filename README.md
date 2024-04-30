@@ -13,6 +13,7 @@ Value-driven Data Scientist with a proven track record in using my analytical an
 
 ### Project 1) SmartCheck: Automating Feedback in 3D modelling 
 Recently, I had the opportunity to work on a research project with a UK based Startup, who focus on teaching engineering students how to create 3D models using computer software. University professors spend on average 300 hours per semester grading these models, time they’d rather to allocate to one-to-one classroom feedback. My approach used a combination of a quantitative report based on machine learning algorithms in combination with a large language model (LLM). 
+
 For the quantitative report I created custom metrics tailored to the problem. From the examples below I've used different weights for certain variables that I deem to be more important, that's why Face Count Score has a 40% weight vs the Volume score which only has 30% weight. 
 The 3D plots provide a way to visualise the problem. The left is the target model and the right is the students attempt. Here I've used the K Nearest Neighbour algorithm to find find the points nearest to the target model (blue), the distance between them (green), the students attempt (red). This student's attempt was pretty good given that there were not many deviations from the target model. 
 
