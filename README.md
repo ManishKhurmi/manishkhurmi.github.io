@@ -27,28 +27,28 @@ The workflow below shows the overarching strategy, a combination of the quantita
 
 ![sc](/assets/img/sc_pic_3.png)
 
-### Project 2) Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
-Using the TensorFlow algorithm to decide whether or not to lend a customer a loan based on the Lending Club data set. This involved data cleaning, feature engineering and successfully implementing TensorFlow algorithm to fit the data.  Shown below are some of the visuals from the project; count plots with a colour gradient to visualise the credit quality of the population in question, scatter plots to explore the relationship between variables of interest, heatmaps helped to visual the correlation between the continuous variables in our data and performance graphs to evaluate the model.
-
-![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
-
-### Project 2) Unraveling King County, USA House Prices: Deep Learning Regression with TensorFlow
-This project delves into regression problems and the techniques of deep learning. Using TensorFlow, I predicted house prices in King County, USA, unravelling the intricacies of real estate valuation and challenges of creating a ML model for predictions. Some of the EDA that is included delves into heatmaps in relation to house prices, insights from the distribution of house prices using histograms, geographical data analysis and regression plots to visual the predictions of the model.
-
-![Project 2](/assets/img/project_2.png)
-
-### Project 3) Yelp Review Stars: Easy NLP Classification with Pipelines
-This project focuses on classifying reviews into 1 or 5 stars, using streamlined pipeline methods to uncover the straightforward yet impactful magic of NLP in deciphering text sentiment. Some of the EDA that helped form features is shown below, for example visualsing how the text length varies across the 5 different types of rating, boxplots for visualising the outliers in the data set, and the correlation heatmap to explore strong positively and negatively correlated variables.
-
-![Project 3](/assets/img/project_3.png)
-
-### Project 4) The Black-Scholes-Merton Financial Model
+### Project 2) The Black-Scholes-Merton Financial Model
 This is an Interactive App with the goal to give an understanding of option-pricing through a hands-on approach using real world data. Throughout the App you will find widgets that allow you to vary the inputs of the Black-Scholes-Merton model and graphical representations of the outputs of the model. In an effort to see the impact of the chosen variations, towards the end of the notebook, you will find a qualitative explanation of the outputs (Greeks) of the underlying model.
 
 ![Project 4](/assets/img/project_4.png)
 
-### Project 5) LLM-Driven feedback for Engineering Students
-Research project for an education technology startup aimed at automating feedback for engineering professors on student 3D models in AutoCAD, a leading visualisation software. Developed a quantitative analysis framework using K-Nearest Neighbour and PCA to compare target 3D objects with student attempts. My strategy combined the quantitative report with a large language model (LLM) to deliver tailored feedback to students.
+### Project 3) Credit Model:  Loan Predictions through Advanced Feature Engineering and TensorFlow
+Using the TensorFlow algorithm to decide whether or not to lend a customer a loan based on the Lending Club data set. This involved data cleaning, feature engineering and successfully implementing TensorFlow algorithm to fit the data.  Shown below are some of the visuals from the project; count plots with a colour gradient to visualise the credit quality of the population in question, scatter plots to explore the relationship between variables of interest, heatmaps helped to visual the correlation between the continuous variables in our data and performance graphs to evaluate the model.
+
+![Tensorflow Credit Model](/assets/img/TF_credit_model.png)
+
+### Project 4) Unraveling King County, USA House Prices: Deep Learning Regression with TensorFlow
+This project delves into regression problems and the techniques of deep learning. Using TensorFlow, I predicted house prices in King County, USA, unravelling the intricacies of real estate valuation and challenges of creating a ML model for predictions. Some of the EDA that is included delves into heatmaps in relation to house prices, insights from the distribution of house prices using histograms, geographical data analysis and regression plots to visual the predictions of the model.
+
+![Project 2](/assets/img/project_2.png)
+
+### Project 5) Yelp Review Stars: Easy NLP Classification with Pipelines
+This project focuses on classifying reviews into 1 or 5 stars, using streamlined pipeline methods to uncover the straightforward yet impactful magic of NLP in deciphering text sentiment. Some of the EDA that helped form features is shown below, for example visualsing how the text length varies across the 5 different types of rating, boxplots for visualising the outliers in the data set, and the correlation heatmap to explore strong positively and negatively correlated variables.
+
+![Project 3](/assets/img/project_3.png)
+
+
+
   
 ## Work Experience
 **PYTHON FOR DATA SCIENCE AND MACHINE LEARNING BOOTCAMP (2023)**
