@@ -81,19 +81,6 @@ optimise lending decisions and enhance portfolio performance
 Key Achievement: spotted a new customer trend that was used to improve our lending model generating £1.5 million in revenue
 
 
-## CAREER BREAK (_2021 - 2023_)
-**COVID-19 RESPONSE UNIT, NHS**
-- Clinically trained to administer Vaccines for all age groups and demographics. Patient-centred care while
-administering vaccines, reassuring individuals and addressing any concerns they may have.
-
-**ECONOMICS TUTOR, THE ACCESS PROJECT**
-- Dedicated expertise to students who come from underprivileged or disadvantaged backgrounds.
-
-**CARER FOR SPECIAL NEEDS**
-- Responsible for making critical medical and social care decisions, ensuring their well-being and comfort while
-navigating the challenges of their condition
-
-
 
 
 
